@@ -1,4 +1,4 @@
-### Proyect Pricing-Panel
+### Proyect login responsive page
 Project with responsive response desing, it was only made for practice 😶‍🌫️
 
 ## Screenshot on PC desing 😶‍🌫️
